@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="projeto Internet Segura" src="Readme.jpg" width="100%">
+  <img alt="projeto Internet Segura" src="[Readme.jpg](https://github.com/brunocarvalho-lt/Explorer-Stage-2-Desafio-3-Internet-Segura/blob/main/Desafio%20Stage2-%20Dados%20Protegidos/img/Readme.jpg)" width="100%">
 </p>
 
 <p align="center">
